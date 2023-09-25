@@ -17,23 +17,23 @@
 💬 Ask me about Java & SpringBoot.
 <br>
 <br>
-👨‍💻 All my projects are available in the [repository section](https://github.com/AmanChaudhary214?tab=repositories).
+👨‍💻 All my projects are available in the [repository section](https://github.com/vikassuresh4397?tab=repositories).
 <br>
-👨🏻‍🎓 Have a look at my [Portfolio](https://amanchaudhary214.github.io/).
+👨🏻‍🎓 Have a look at my [Portfolio](https://vikassuresh4397.github.io/).
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1NT1qq1mVfUzGzIhus1TQxEwe6mbP6bsY/view?usp=drive_link).
+🔭 Know more about me and my experiences [My Resume](https://flowcv.com/resume/sleu82c1fn).
 <br>
 <br>
-🤝 I’m also reachable at aman.chaudhary214@gmail.com
+🤝 I’m also reachable at vikassuresh4397@gmail.com
 <br>
 ⚡ Fun fact, Photography and writing quotes are my creative sanctuaries.
 
 <br>
 
 ## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanchaudhary214)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=react&logoColor=white)](https://amanchaudhary214.github.io/)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theaman214)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-suresh-05a60b23b/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=react&logoColor=white)](https://vikassuresh4397.github.io/)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vikassuresh4397)&nbsp;
 
 <br>
 
